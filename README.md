@@ -1,6 +1,5 @@
-- 👋 Salut, moi c’est Kévin, je termine un M2 en géomatique à Rennes 2  
+- 👋 Salut, moi c’est Kévin, diplômé d'un master en Système d'Information Géographique
 - 🗺️ J’aime croiser cartes, data et narration visuelle  
 - 📊 Je m’intéresse à la dataviz interactive (D3.js, MapLibre, storytelling…)  
 - 🏀 Mon dernier projet : [Visualiser la saison 2017-2018 de LeBron James](https://lb-dataviz.vercel.app)  
-- 💼 Je cherche un stage de fin d’études (au plus tard en juin 2025 pour une durée de 5 mois), plutôt orienté visualisation / design de données  
 - 🌐 Mon portfolio : [kevinlucongsang.com](https://www.kevinlucongsang.com/)
